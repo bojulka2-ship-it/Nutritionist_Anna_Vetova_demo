@@ -19,6 +19,7 @@ apps-script/Code.gs         Серверный сборщик заявок (Goog
 tests/security.test.js      Набор тестов безопасности (Node.js, без npm)
 docs/DEPLOYMENT.md          Пошаговое подключение Google Таблицы
 docs/SECURITY.md            Обзор защитных механизмов и ограничения
+screenshots/                Скриншоты: страница целиком, пример таблицы заявок
 fonts/                      Локальные шрифты (Cormorant, Golos Text)
 img/                        Фото (не входит в репозиторий, используется fallback)
 ```
